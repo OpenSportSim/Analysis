@@ -1,2 +1,2 @@
 # Analysis
-Sports and Video-game analysis suite.
+Sports and eSports analysis suite.
