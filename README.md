@@ -1,2 +1,1 @@
-# Analysis
-Sports and eSports analysis suite.
+# Sports and eSports analysis suite.
